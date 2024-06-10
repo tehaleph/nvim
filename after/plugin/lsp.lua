@@ -40,6 +40,7 @@ require('lspsaga').setup({
 	}
 })
 
+vim.keymap.set("n", "<leader>cn", "<cmd>COQnow<cr>")
 vim.keymap.set("n", "<leader>gr", "<cmd>Lspsaga rename<cr>")
 vim.keymap.set("n", "<leader>gs", "<cmd>Lspsaga incoming_calls<cr>")
 vim.keymap.set("n", "<leader>gS", "<cmd>Lspsaga outgoing_calls<cr>")
