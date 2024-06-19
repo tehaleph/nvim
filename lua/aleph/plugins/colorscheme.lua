@@ -4,7 +4,7 @@ return {
 	priority = 1000,
 	name = "catppuccin",
 	opts = {
-		flavour = "mocha",
+		flavour = "latte",
 		background = {
 			dark = "mocha",
 			light = "latte",
