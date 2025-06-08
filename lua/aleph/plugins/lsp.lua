@@ -20,5 +20,8 @@ return {
 			'nvim-treesitter/nvim-treesitter', -- optional
 			'nvim-tree/nvim-web-devicons',     -- optional
 		},
-	}
+	},
+	{
+		"nvimtools/none-ls.nvim",
+	},
 }
